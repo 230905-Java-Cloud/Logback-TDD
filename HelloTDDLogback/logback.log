@@ -1,0 +1,6 @@
+11:11:29.011 [main] INFO  Greeter - User got greeted!
+11:13:37.588 [main] INFO  Greeter - User got greeted!
+11:13:37.613 [main] WARN  Greeter - User tried to enter empty String for a name! what were they thinking?
+11:15:04.827 [main] INFO  Greeter - User got greeted!
+11:15:04.844 [main] INFO  Greeter - User entered name: Bon
+11:15:04.854 [main] WARN  Greeter - User tried to enter empty String for a name! what were they thinking?
